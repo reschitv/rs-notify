@@ -1,3 +1,5 @@
+![alt text](https://i.hizliresim.com/a0k5h46.jpg)
+
 ## Change QBCore.Notify function in qbcore/client/functions.lua
 ```
 if QBCore.Config.lxnotify == true then

@@ -1,4 +1,5 @@
-Change QBCore.Notify function in qbcore/client/functions.lua
+## Change QBCore.Notify function in qbcore/client/functions.lua
+```
 if QBCore.Config.lxnotify == true then
 	function QBCore.Functions.Notify(text, textype, length)
         if type(text) == "table" then
@@ -67,3 +68,4 @@ else
 	end
 	end
 	end
+```
